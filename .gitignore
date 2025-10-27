@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data/*.csv
+data/*.xlsx
+
+# Power BI
+powerbi/*.pbix
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# OneDrive temp files
+~$*

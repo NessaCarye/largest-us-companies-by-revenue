@@ -15,9 +15,46 @@ This project explores the 100 largest U.S. companies by revenue (2025). It conta
 - Average revenue growth by industry (bar chart)
 - Total revenue (summary card / pie)
 
-   ```bash
-   # Requirements: Python 3.8+, pandas, requests, beautifulsoup4
-   pip install -r requirements.txt
-   python scripts/clean_data.py
+---
 
+## Setup & Execution
 
+```bash
+# Setup
+# Clone the repository
+git clone https://github.com/your-username/largest-companies-usa.git
+cd largest-companies-usa
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+## Dashboard Preview
+Here’s an overview of the Power BI dashboard included in the project:
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+**Highlights**
+- Top 5 companies by revenue (Walmart, Amazon, Apple, etc.)
+- Industry revenue share (Technology, Retail, Energy, etc.)
+- Average revenue growth by industry
+- Total revenue summary card
+
+**Highlights**
+- Top 5 companies by revenue (Walmart, Amazon, Apple, etc.)
+- Industry revenue share (Technology, Retail, Energy, etc.)
+- Average revenue growth by industry
+- Total revenue summary card
+
+## Data Source
+Data obtained from Wikipedia – List of largest companies in the United States by revenue
+.
+
+## License
+This project is for educational and analytical purposes only.
+All data belongs to their original source (Wikipedia).
+
+### Author
+```bash
+Vanessa Silva
+Data Analyst | Exploring Data through Power BI and Python

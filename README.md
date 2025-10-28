@@ -34,6 +34,13 @@ Here’s an overview of the Power BI dashboard included in the project:
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
+```bash
+- To open:
+  - Option 1 (recommended): Download the repository as a ZIP from GitHub, extract it, and open the PBIX file in Power BI Desktop.
+  - Option 2: Clone the repository using Git and open the PBIX file directly.
+  - Do **not** click “Download Raw” on the PBIX file—this may corrupt the file.
+```
+
 **Highlights**
 - Top 5 companies by revenue (Walmart, Amazon, Apple, etc.)
 - Industry revenue share (Technology, Retail, Energy, etc.)

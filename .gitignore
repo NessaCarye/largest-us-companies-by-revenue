@@ -16,7 +16,7 @@ data/*.csv
 data/*.xlsx
 
 # Power BI
-powerbi/*.pbix
+!powerbi/*.pbix
 
 # OS / editors
 .DS_Store

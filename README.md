@@ -40,12 +40,6 @@ Here’s an overview of the Power BI dashboard included in the project:
 - Average revenue growth by industry
 - Total revenue summary card
 
-**Highlights**
-- Top 5 companies by revenue (Walmart, Amazon, Apple, etc.)
-- Industry revenue share (Technology, Retail, Energy, etc.)
-- Average revenue growth by industry
-- Total revenue summary card
-
 ## How to open the files
 - CSV files can be opened in Excel or any data tool.
 - Power BI file (`largest_companies_us_dashboard.pbix`) can be opened with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
